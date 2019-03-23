@@ -4,12 +4,12 @@ def f1(self, x, y):
     return min(x, x+y)
 
 
-class C:
+class verify:
     f = f1
     def g(self):
         return 'hola mundo'
     h = g
-new=C()
+new=verify()
 #print f.min
 print new.g()
 print new.f(23,4)
