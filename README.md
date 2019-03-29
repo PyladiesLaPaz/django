@@ -18,7 +18,11 @@
   * [Whatsapp](https://chat.whatsapp.com/LVF59C0Qndi8LGE9gpVIZL)
   * [GitHub](https://github.com/pythonlp)
 
+### DESCARGA DEL PROYECTO
+## El proyecto de django se encuentra en una rama (branch) - Ejecuta el siguiente comando para descargar esta rama =)
 
+  - `git checkout --track origin dblog`
+    
 ### Crear Base de Datos en postgres
 
   - `sudo su postgres`
