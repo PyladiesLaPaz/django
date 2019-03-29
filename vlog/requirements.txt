@@ -1,0 +1,16 @@
+# Version de Django Documentacion - https://www.djangoproject.com/
+Django==2.1.7
+
+# Django Interface -> Documentacion - https://goo.gl/bgCjAu
+django-admin-interface==0.10.3
+django-colorfield==0.1.15
+django-flat-responsive==2.0
+django-flat-theme==1.1.4
+
+
+# Pillow para imagenes Documentacion - https://goo.gl/K66BQC
+Pillow==5.4.1 
+
+# Dependencias del virtualenv
+pkg-resources==0.0.0
+pytz==2018.9
