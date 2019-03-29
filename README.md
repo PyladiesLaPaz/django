@@ -21,7 +21,7 @@
 ### DESCARGA DEL PROYECTO
 ## El proyecto de django se encuentra en una rama (branch) - Ejecuta el siguiente comando para descargar esta rama =)
 
-  - `git checkout --track origin dblog`
+  - `git checkout --track origin/dblog`
     
 ### Crear Base de Datos en postgres
 
